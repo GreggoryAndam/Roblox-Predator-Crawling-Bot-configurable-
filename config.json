@@ -1,0 +1,28 @@
+{
+    "blocklist": [
+        "discord",
+        "twitter",
+        "instagram",
+        "snapchat",
+        "tiktok",
+        "whatsapp",
+        "telegram",
+        "scam",
+        "robux generator",
+        "free robux",
+        "cheat",
+        "exploit",
+        "hacks",
+        "xxx",
+        "nudes",
+        "onlyfans",
+	"AddWordsHere"
+    ],
+    "allowlist": [
+        "discordapp.com/users/12345 (fake example)",
+        "i do not have discord"
+    ],
+    "output_file": "flagged_accounts.csv",
+    "request_delay": 0.5,
+    "crawl_limit": 100
+}
